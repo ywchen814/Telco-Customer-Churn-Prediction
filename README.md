@@ -1,5 +1,5 @@
 <font size=+3><center><b>Telco Churn Prediction with ML Insights 📈</b></center></font>
-<img src=".\Churn.png" style="float: middle;" width="800" height="600" />
+<img src=".\churn.png" style="float: middle;" width="800" height="600" />
 
 <font size=+1><left><b>Table of Contents</b></left></font>
 
